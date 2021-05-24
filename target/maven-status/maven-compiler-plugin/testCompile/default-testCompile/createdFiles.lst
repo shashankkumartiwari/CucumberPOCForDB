@@ -1,0 +1,7 @@
+com\db\StepDefinitions\APIAutomationSteps\CommonAPISteps.class
+com\db\StepDefinitions\TwitterSteps\TwitterSteps.class
+com\db\Runner\TestRunner.class
+com\db\StepDefinitions\APIAutomationSteps\ProfileAPI.class
+com\db\StepDefinitions\APIAutomationSteps\SignInAPISteps.class
+com\db\StepDefinitions\SearchOnWikiSteps\WikiSearchACC.class
+com\db\StepDefinitions\Hook.class
